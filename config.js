@@ -1,5 +1,5 @@
 export const config = {
-  domainSource: "https://www.openlogistics.network/", // Your WeWeb app preview link
+  domainSource: "https://32c40fd2-9294-4e8d-b573-38afaf6cd060.weweb-preview.io/", // Your WeWeb app preview link
   patterns: [
       {
           pattern: "/locations/[^/]+",
